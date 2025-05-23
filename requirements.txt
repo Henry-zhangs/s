@@ -1,0 +1,5 @@
+opencv_python==4.11.0.86
+openpyxl==3.1.5
+Pillow==11.2.1
+torch==2.4.1+cu118
+torchvision==0.19.1+cu118
